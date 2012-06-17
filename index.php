@@ -1,33 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="utf-8">
-    <title>Bungee Project</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Big Unstructured Data Analytics">
-    <meta name="author" content="Anand Babu Periasamy">
-
-    <!-- Le styles -->
-    <link href="assets/css/bootstrap.css" rel="stylesheet">
-    <style type="text/css">
-      body {
-        padding-top: 60px;
-        padding-bottom: 40px;
-      }
-    </style>
-    <link href="assets/css/bootstrap-responsive.css" rel="stylesheet">
-
-    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
-    <!--[if lt IE 9]>
-      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-
-    <!-- Le fav and touch icons -->
-    <link rel="shortcut icon" href="assets/ico/favicon.ico">
-    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="assets/ico/apple-touch-icon-144-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="assets/ico/apple-touch-icon-114-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="assets/ico/apple-touch-icon-72-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" href="assets/ico/apple-touch-icon-57-precomposed.png">
+    <title>Bungee Home</title>
+   <?php include("include/github-fork-me.html"); ?>
+   <?php include("include/head.html"); ?>
+   <?php include("include/google-analytics.html"); ?>
   </head>
 
   <body>
@@ -40,7 +17,8 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </a>
-          <a class="brand" href="#">Bungee Project</a>
+   <a class="brand" href="#">Bungee Project</a>
+   <!-- <img class="brand" src="images/bungee-banner.png"></img> -->
           <div class="nav-collapse">
             <ul class="nav">
               <li class="active"><a href="#">Home</a></li>
@@ -56,7 +34,7 @@
 
       <!-- Main hero unit for a primary marketing message or call to action -->
       <div class="hero-unit">
-        <h1>What is Bungee?</h1>
+        <h1>What is Bungee?<img src="images/bungee-logo.png"></img></h1>
         <p>Bungee project was created address big unstructured data analytics with simplicity in mind. It is a framework..</p>
         <p><a class="btn btn-primary btn-large">Learn more &raquo;</a></p>
       </div>
@@ -65,8 +43,8 @@
       <div class="row">
         <div class="span4">
           <h2>Source</h2>
-           <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-          <p><a class="btn" href="#">View details &raquo;</a></p>
+           <p>Bungee is free software / open source licensed under Apache License v2.0. If you have C or Python programming skills, you can also contribute to this project. </p>
+	   <a href="https://github.com/BungeeProject/bungee/" class="btn btn-primary btn-medium">Watch at GitHub</a>
         </div>
         <div class="span4">
           <h2>FAQ</h2>
