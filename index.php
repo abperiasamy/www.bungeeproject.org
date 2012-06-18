@@ -2,13 +2,14 @@
 <html lang="en">
   <head>
     <title>Bungee Home</title>
-   <?php include("include/github-fork-me.html"); ?>
    <?php include("include/head.html"); ?>
    <?php include("include/google-analytics.html"); ?>
   </head>
 
   <body>
-
+  <?php include("include/github-fork-me.html"); ?>
+  <?php include("include/banana-logo.html"); ?>
+  
     <div class="navbar navbar-fixed-top">
       <div class="navbar-inner">
         <div class="container">
@@ -34,7 +35,7 @@
 
       <!-- Main hero unit for a primary marketing message or call to action -->
       <div class="hero-unit">
-        <h1>What is Bungee?<img src="images/bungee-logo.png"></img></h1>
+        <h1>What is Bungee?</h1>
         <p>Bungee project was created address big unstructured data analytics with simplicity in mind. It is a framework..</p>
         <p><a class="btn btn-primary btn-large">Learn more &raquo;</a></p>
       </div>
