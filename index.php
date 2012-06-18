@@ -9,27 +9,7 @@
   <body>
   <?php include("include/github-fork-me.html"); ?>
   <?php include("include/banana-logo.html"); ?>
-  
-    <div class="navbar navbar-fixed-top">
-      <div class="navbar-inner">
-        <div class="container">
-          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </a>
-   <a class="brand" href="#">Bungee Project</a>
-   <!-- <img class="brand" src="images/bungee-banner.png"></img> -->
-          <div class="nav-collapse">
-            <ul class="nav">
-              <li class="active"><a href="#">Home</a></li>
-              <li><a href="#about">About</a></li>
-              <li><a href="#contact">Contact</a></li>
-            </ul>
-          </div><!--/.nav-collapse -->
-        </div>
-      </div>
-    </div>
+  <?php include("include/navbar.html"); ?>
 
     <div class="container">
 
@@ -45,24 +25,23 @@
         <div class="span4">
           <h2>Source</h2>
            <p>Bungee is free software / open source licensed under Apache License v2.0. If you have C or Python programming skills, you can also contribute to this project. </p>
-	   <a href="https://github.com/BungeeProject/bungee/" class="btn btn-primary btn-medium">Watch at GitHub</a>
+	   <a href="https://github.com/BungeeProject/bungee/" class="btn">Watch at GitHub</a>
         </div>
         <div class="span4">
-          <h2>FAQ</h2>
-           <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-          <p><a class="btn" href="#">View details &raquo;</a></p>
+          <h2>Easy</h2>
+   <p>Bungee project is all about ease of use and trill in processing large amount of data. With basic GNU/Linux command line skills, you can do some serious big data hacking. Additionally if you know python scripting language, you can extend the system's capabilities.</p>
        </div>
         <div class="span4">
-          <h2>Join</h2>
-          <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-          <p><a class="btn" href="#">View details &raquo;</a></p>
+          <h2>Community</h2>
+   <p>Best time to join a free software project is at its early infancy  stage. You can contribute to this project in various ways like writing documentation, reporting bugs, requesting new features or by hacking code. </p>
+          <p><a class="btn" href="#">Join Bungee Community &raquo;</a></p>
         </div>
       </div>
 
       <hr>
 
       <footer>
-        <p>&copy; Red Hat, Inc.</p>
+        <p>&copy; 2012 Red Hat, Inc. Bungee is a community driven project.</p>
       </footer>
 
     </div> <!-- /container -->
