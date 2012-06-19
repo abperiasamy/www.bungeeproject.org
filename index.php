@@ -34,7 +34,7 @@
         <div class="span4">
           <h2>Community</h2>
    <p>Best time to join a free software project is at its early infancy  stage. You can contribute to this project in various ways like writing documentation, reporting bugs, requesting new features or by hacking code. </p>
-          <p><a class="btn" href="#">Join Bungee Community &raquo;</a></p>
+          <p><a class="btn" href="http://junkie.bungeeproject.org">Join Bungee Community &raquo;</a></p>
         </div>
       </div>
 
