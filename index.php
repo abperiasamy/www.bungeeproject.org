@@ -37,9 +37,9 @@
           <p><a class="btn" href="http://junkie.bungeeproject.org">Join Bungee Community &raquo;</a></p>
         </div>
       </div>
-
+<br>
+   <?php include("include/twitter.html"); ?> 
       <hr>
-
       <footer>
         <p>&copy; 2012 Red Hat, Inc. Bungee is a community driven project.</p>
       </footer>

@@ -2,7 +2,7 @@
 HPP = php
 HPPFLAGS = 
 
-HPP_INCLUDES = include/head.html include/navbar.html include/github-fork-me.html include/google-analytics.html 
+HPP_INCLUDES = include/head.html include/navbar.html include/github-fork-me.html include/google-analytics.html include/twitter.html
 HPP_SOURCES = index.html
 
 %.html: %.php $(HPP_INCLUDES)
