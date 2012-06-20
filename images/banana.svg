@@ -10,15 +10,15 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="700"
-   height="450"
+   width="410"
+   height="410"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.1 r9760"
    sodipodi:docname="banana.svg"
-   inkscape:export-filename="/home/ab/work/bungee/art/banana-small.png"
-   inkscape:export-xdpi="7.1036191"
-   inkscape:export-ydpi="7.1036191">
+   inkscape:export-filename="/home/ab/work/bungee/art/banana-114x114.png"
+   inkscape:export-xdpi="25.02"
+   inkscape:export-ydpi="25.02">
   <defs
      id="defs4">
     <linearGradient
@@ -680,7 +680,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-602.36218)">
+     transform="translate(0,-642.36218)">
     <path
        sodipodi:type="arc"
        style="fill:#4d4d4d;fill-opacity:1;stroke:none;filter:url(#filter4298)"
@@ -689,14 +689,17 @@
        sodipodi:cy="401.42856"
        sodipodi:rx="308.57144"
        sodipodi:ry="25.714285"
-       d="m 660,401.42856 a 308.57144,25.714285 0 1 1 -617.142883,0 308.57144,25.714285 0 1 1 617.142883,0 z"
-       transform="matrix(0.47256849,0.00582508,-0.00609909,0.44742497,139.61666,807.82105)" />
+       d="m 660,401.42856 c 0,14.20161 -138.15214,25.71428 -308.57144,25.71428 -170.4193,0 -308.571443,-11.51267 -308.571443,-25.71428 0,-14.20161 138.152143,-25.71429 308.571443,-25.71429 170.4193,0 308.57144,11.51268 308.57144,25.71429 z"
+       transform="matrix(0.47256849,0.00582508,-0.00609909,0.44742497,40.804457,846.16624)"
+       inkscape:export-filename="/home/ab/work/bungee/art/banana-72x72.png"
+       inkscape:export-xdpi="5.6926603"
+       inkscape:export-ydpi="5.6926603" />
     <g
        id="g3155"
-       transform="matrix(-0.39061041,-0.41270623,-0.41270623,0.39061041,764.8488,644.80278)"
-       inkscape:export-filename="/home/ab/work/bungee/art/banana-small.png"
-       inkscape:export-xdpi="5.7600002"
-       inkscape:export-ydpi="5.7600002">
+       transform="matrix(-0.39061041,-0.41270623,-0.41270623,0.39061041,666.0366,683.14797)"
+       inkscape:export-filename="/home/ab/work/bungee/art/banana-72x72.png"
+       inkscape:export-xdpi="5.6926603"
+       inkscape:export-ydpi="5.6926603">
       <path
          sodipodi:nodetypes="cccccccccccccccccccccccccccc"
          inkscape:connector-curvature="0"
@@ -838,9 +841,12 @@
        sodipodi:cy="536.87311"
        sodipodi:rx="1.0101526"
        sodipodi:ry="4.0406103"
-       d="m 398.00011,536.87311 a 1.0101526,4.0406103 0 1 1 -0.32929,-2.98486 l -0.68086,2.98486 z"
-       transform="matrix(0.56824547,0,0,0.56824547,113.47835,735.25437)"
+       d="m 398.00011,536.87311 c 0,2.23157 -0.45226,4.04061 -1.01015,4.04061 -0.55789,0 -1.01015,-1.80904 -1.01015,-4.04061 0,-2.23157 0.45226,-4.04061 1.01015,-4.04061 0.25193,0 0.49476,0.37654 0.68086,1.05575 l -0.68086,2.98486 z"
+       transform="matrix(0.56824547,0,0,0.56824547,14.666147,773.59956)"
        sodipodi:start="0"
-       sodipodi:end="5.452023" />
+       sodipodi:end="5.452023"
+       inkscape:export-filename="/home/ab/work/bungee/art/banana-72x72.png"
+       inkscape:export-xdpi="5.6926603"
+       inkscape:export-ydpi="5.6926603" />
   </g>
 </svg>
