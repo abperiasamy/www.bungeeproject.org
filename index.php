@@ -16,8 +16,8 @@
       <!-- Main hero unit for a primary marketing message or call to action -->
       <div class="hero-unit">
         <h1>What is Bungee?</h1>
-        <p>Bungee project was created address big unstructured data analytics with simplicity in mind. It is a framework..</p>
-        <p><a class="btn btn-primary btn-large">Learn more &raquo;</a></p>
+        <p>Bungee project was created to address big unstructured data analytics with simplicity in mind. It is a data processing framework to give you "Awk" like experience..</p>
+        <p><a href="http://junkie.bungeeproject.org/q/what-is-bungee-project/" class="btn btn-primary btn-large">Learn more &raquo;</a></p>
       </div>
 
       <!-- Example row of columns -->
