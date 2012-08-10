@@ -15,9 +15,8 @@
 
       <!-- Main hero unit for a primary marketing message or call to action -->
       <div class="hero-unit">
-        <h1>What is Bungee?</h1>
-        <p>Bungee project was created to address big unstructured data analytics with simplicity in mind. It is a data processing framework to give you "Awk" like experience..</p>
-        <p><a href="http://junkie.bungeeproject.org/q/what-is-bungee-project/" class="btn btn-primary btn-large">Learn more &raquo;</a></p>
+   <h1>What is Bungee?</h1>
+   <h3>Bungee is a <u>Big Data Processor</u> inspired by AWK and spreadsheet .. <a href="http://junkie.bungeeproject.org/q/what-is-bungee-project/" class="btn btn-primary btn-large">Learn more &raquo;</a></h3>
       </div>
 
       <!-- Example row of columns -->
@@ -38,7 +37,7 @@
         </div>
       </div>
 <br>
-   <?php include("include/twitter.html"); ?> 
+   <?php include("include/twitter.html"); ?>
       <hr>
       <footer>
         <p>&copy; 2012 Red Hat, Inc. Bungee is a community driven project.</p>
