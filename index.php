@@ -16,7 +16,7 @@
       <!-- Main hero unit for a primary marketing message or call to action -->
       <div class="hero-unit">
    <h1>What is Bungee?</h1>
-   <h3>Bungee is a <u>Big Data Processor</u> inspired by AWK and spreadsheet .. <a href="http://junkie.bungeeproject.org/q/what-is-bungee-project/" class="btn btn-primary btn-large">Learn more &raquo;</a></h3>
+   <h3>Bungee is a <u>Big Data Processor</u> modeled after Unix AWK .. <a href="http://junkie.bungeeproject.org/q/what-is-bungee-project/" class="btn btn-primary btn-large">Learn more &raquo;</a></h3>
       </div>
 
       <!-- Example row of columns -->
